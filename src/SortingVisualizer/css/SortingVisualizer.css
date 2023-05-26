@@ -1,0 +1,16 @@
+.array-container {
+  /* position: absolute;
+  top: 50%;
+  left: 100px; */
+  position: fixed;
+  bottom: 10%;
+  width: 100%;
+}
+
+.bar {
+  width: 2px;
+  /* background: turquoise; */
+  /* background: black; */
+  display: inline-block;
+  margin: 0 1px;
+}
