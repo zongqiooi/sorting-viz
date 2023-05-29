@@ -19,7 +19,7 @@ var isTouchDevice = "ontouchstart" in document.documentElement;
 
 if (isTouchDevice) {
   ANIMATION_SPEED_MS = 10;
-  BAR_NUMBER = 30;
+  BAR_NUMBER = 75;
 }
 
 const SortingVisualizer = () => {
