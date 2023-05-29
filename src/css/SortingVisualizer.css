@@ -63,7 +63,7 @@
   .footer-container {
     color: #b6bbc0;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 150px;
     padding: 30px 10px;
     font-size: 70%;
     font-weight: 500;
@@ -75,12 +75,12 @@
   }
 
   #website-icon {
-    margin-top: 10%;
-    margin-left: 10%;
+    margin-top: 20%;
+    margin-left: 20%;
   }
 
   #dark-mode-icon {
-    margin-top: 10%;
-    margin-right: 10%;
+    margin-top: 20%;
+    margin-right: 20%;
   }
 }

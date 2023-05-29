@@ -16,6 +16,7 @@ let COMPARED_COLOR = "#FF1E1E";
 let SWAPPED_COLOR = "#00FFD1";
 
 var isTouchDevice = "ontouchstart" in document.documentElement;
+
 if (isTouchDevice) {
   ANIMATION_SPEED_MS = 10;
   BAR_NUMBER = 30;
