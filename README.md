@@ -62,7 +62,8 @@ https://sorting-vizz.vercel.app/
 ---
 ## Toaster for Sorted Bars
 
-![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/73896e8c-3069-40ad-a10b-8474389cc827)
+![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/a2321bca-d375-43ec-a709-cd6f9beac3cd)
+<!-- ![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/73896e8c-3069-40ad-a10b-8474389cc827) -->
 
 ---
 
