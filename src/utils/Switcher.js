@@ -24,11 +24,8 @@ export default function Switcher() {
         }}
       >
         <p
+          id="website-icon"
           class="drop-shadow-lg shadow-black dark:text-white font-normal text-lg"
-          style={{
-            marginTop: "2%",
-            marginLeft: "2%",
-          }}
         >
           Sorting Viz
           <LeaderboardOutlinedIcon
@@ -38,11 +35,7 @@ export default function Switcher() {
         </p>
 
         <DarkModeSwitch
-          style={{
-            marginTop: "2%",
-            marginRight: "2%",
-            cursor: `url("https://static1.squarespace.com/static/61732094cf67366ff380a4dd/t/619e6dcace6b7b31807c3c61/1637772746935/InDesignCursor.png"), auto`,
-          }}
+          id="dark-mode-icon"
           checked={darkSide}
           onChange={toggleDarkMode}
           size={25}

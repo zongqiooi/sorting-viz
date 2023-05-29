@@ -3,14 +3,16 @@
     auto;
 }
 
-.array-container {
-  width: 100%;
-  height: 75vh;
-  text-align: center;
-  margin: 0px auto;
+#website-icon {
   margin-top: 2%;
-  display: flex;
-  flex-direction: column;
+  margin-left: 2%;
+}
+
+#dark-mode-icon {
+  margin-top: 2%;
+  margin-right: 2%;
+  cursor: url("https://static1.squarespace.com/static/61732094cf67366ff380a4dd/t/619e6dcace6b7b31807c3c61/1637772746935/InDesignCursor.png"),
+    auto;
 }
 
 #bars-container {
@@ -19,6 +21,16 @@
   transform: rotate(180deg) scaleX(-1);
   justify-content: center;
   flex: 1;
+}
+
+.array-container {
+  width: 100%;
+  height: 75vh;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 2%;
+  display: flex;
+  flex-direction: column;
 }
 
 .bar {
@@ -45,4 +57,30 @@
   align-items: center;
   gap: 10px;
   justify-content: center;
+}
+
+@media screen and (max-width: 350px) {
+  .footer-container {
+    color: #b6bbc0;
+    text-align: center;
+    margin-top: 70px;
+    padding: 30px 10px;
+    font-size: 70%;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+  }
+
+  #website-icon {
+    margin-top: 10%;
+    margin-left: 10%;
+  }
+
+  #dark-mode-icon {
+    margin-top: 10%;
+    margin-right: 10%;
+  }
 }

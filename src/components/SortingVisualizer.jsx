@@ -7,13 +7,19 @@ import insertionSort from "../utils/SortingAlgorithms/insertionSort";
 import mergeSort from "../utils/SortingAlgorithms/mergeSort";
 import quickSort from "../utils/SortingAlgorithms/quickSort";
 
-const ANIMATION_SPEED_MS = 1;
-const BAR_NUMBER = 100; // 330
-const BAR_MIN_HEIGHT = 5;
-const BAR_MAX_HEIGHT = 450;
-const ORIGINAL_COLOR = "#00E7FF";
-const COMPARED_COLOR = "#FF1E1E";
-const SWAPPED_COLOR = "#00FFD1";
+let ANIMATION_SPEED_MS = 1;
+let BAR_NUMBER = 100;
+let BAR_MIN_HEIGHT = 5;
+let BAR_MAX_HEIGHT = 450;
+let ORIGINAL_COLOR = "#00E7FF";
+let COMPARED_COLOR = "#FF1E1E";
+let SWAPPED_COLOR = "#00FFD1";
+
+var isTouchDevice = "ontouchstart" in document.documentElement;
+if (isTouchDevice) {
+  ANIMATION_SPEED_MS = 10;
+  BAR_NUMBER = 30;
+}
 
 const SortingVisualizer = () => {
   const [array, setArray] = useState([]);
