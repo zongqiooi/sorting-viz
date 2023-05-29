@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+![Hero-section](https://github.com/zongqiooi/key-and-click/assets/95561298/a5922d0f-6e2a-4df6-a7eb-988d7ec4f733)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sorting Viz
 
-## Available Scripts
+Sorting Viz is a web application that visualizes the five sorting algorithms, such as merge sort, quick sort, bubble sort, selection sort, and insertion sort 📊
 
-In the project directory, you can run:
+# Visit the Website!
 
-### `npm start`
+https://sorting-vizz.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tech Stack Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- Tailwind CSS
+- Vanilla Javascript
+- Vercel
 
-### `npm test`
+# Sorts
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Light / Dark Mode
 
-### `npm run build`
+![localhost_3000_ (2)](https://github.com/zongqiooi/key-and-click/assets/95561298/740f752d-7169-4a0d-9ef9-b6d7989ad648)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Unsorted / Sorted Bars
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![localhost_3000_ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/195bf76c-a0b5-49a5-a09b-c82b7cd84039)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Customized Website Cursor
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![localhost_3000_ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/195bf76c-a0b5-49a5-a09b-c82b7cd84039)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Merge Sort
 
-## Learn More
+![localhost_3000_ (3)](https://github.com/zongqiooi/key-and-click/assets/95561298/7b64aa4a-eef9-43e3-9c90-24487a562f16)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Quick Sort
 
-### Code Splitting
+![checkout stripe com_c_pay_cs_test_b1CIRnx3MZnqGHyZSxBy3inkqxqxK9hwMhGesjgeVjfNgnWUe1zqXgjCFZ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/d2617d45-0336-4419-abd4-d68bd55fa05f)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Bubble Sort
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Selection Sort
 
-### Advanced Configuration
+![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Insertion Sort
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# How to Run the Project
+
+1. Clone the project into the local machine  
+   `git clone https://github.com/zongqiooi/sorting-viz.git`
+2. Change the directory into the project folder  
+   `cd sorting-viz`
+3. Open the current directory in VS Code  
+   `code .`
+4. Install all the project dependencies  
+   `npm install`
+5. Run the project with React.js
+   `npm start`
