@@ -59,18 +59,18 @@
   justify-content: center;
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 500px) {
   .footer-container {
     display: none;
   }
 
   #website-icon {
-    margin-top: 20%;
-    margin-left: 20%;
+    margin-top: 10%;
+    margin-left: 10%;
   }
 
   #dark-mode-icon {
-    margin-top: 20%;
-    margin-right: 20%;
+    margin-top: 10%;
+    margin-right: 10%;
   }
 }
