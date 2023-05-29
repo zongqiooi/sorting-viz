@@ -1,8 +1,8 @@
-![Hero-section](https://github.com/zongqiooi/key-and-click/assets/95561298/a5922d0f-6e2a-4df6-a7eb-988d7ec4f733)
+![dark-light-mode-sorting-viz](https://github.com/zongqiooi/sorting-viz/assets/95561298/384e5196-dbd9-41d5-b3da-32524ac0a561)
 
 # Sorting Viz
 
-Sorting Viz is a web application that visualizes the five sorting algorithms, such as merge sort, quick sort, bubble sort, selection sort, and insertion sort 📊
+Sorting Viz is a web application that visualizes the five sorting algorithms, i.e. (a) merge sort, (b) quick sort, (c) bubble sort, (d) selection sort, and (e) insertion sort 📊
 
 # Visit the Website!
 
@@ -15,55 +15,57 @@ https://sorting-vizz.vercel.app/
 - Vanilla Javascript
 - Vercel
 
-# Sorts
-
-## Light / Dark Mode
-
-![localhost_3000_ (2)](https://github.com/zongqiooi/key-and-click/assets/95561298/740f752d-7169-4a0d-9ef9-b6d7989ad648)
-
+# Features
 ---
 
-## Unsorted / Sorted Bars
-
-![localhost_3000_ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/195bf76c-a0b5-49a5-a09b-c82b7cd84039)
-
----
 
 ## Customized Website Cursor
 
-![localhost_3000_ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/195bf76c-a0b5-49a5-a09b-c82b7cd84039)
+![customized-mouse](https://github.com/zongqiooi/sorting-viz/assets/95561298/56625aa5-6089-4cc8-8654-84882955586e)
 
 ---
 
-## Merge Sort
+## Unsorted Bars
 
-![localhost_3000_ (3)](https://github.com/zongqiooi/key-and-click/assets/95561298/7b64aa4a-eef9-43e3-9c90-24487a562f16)
-
----
-
-## Quick Sort
-
-![checkout stripe com_c_pay_cs_test_b1CIRnx3MZnqGHyZSxBy3inkqxqxK9hwMhGesjgeVjfNgnWUe1zqXgjCFZ (1)](https://github.com/zongqiooi/key-and-click/assets/95561298/d2617d45-0336-4419-abd4-d68bd55fa05f)
+![unsorted](https://github.com/zongqiooi/sorting-viz/assets/95561298/5e71d674-ba2e-4a19-b775-f33554d1ccfc)
 
 ---
 
-## Bubble Sort
+## Merge Sort Visualizer
 
-![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
-
----
-
-## Selection Sort
-
-![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
+![mergesort](https://github.com/zongqiooi/sorting-viz/assets/95561298/edcea167-225d-46e1-91ae-14b6d36c2814)
 
 ---
 
-## Insertion Sort
+## Quick Sort Visualizer
 
-![success_payment](https://github.com/zongqiooi/key-and-click/assets/95561298/45ef72fb-edfc-4597-900b-3636f303f5af)
+![quicksort](https://github.com/zongqiooi/sorting-viz/assets/95561298/c7e60fcd-a4eb-4c54-899b-410038f08c30)
 
 ---
+
+## Bubble Sort Visualizer
+
+![bubblesort](https://github.com/zongqiooi/sorting-viz/assets/95561298/6bf1c4bd-1924-4099-9cf4-d221f15debf9)
+
+---
+
+## Selection Sort Visualizer
+
+![selectionsort](https://github.com/zongqiooi/sorting-viz/assets/95561298/d96d0531-4085-4c57-a990-54a09399d0c2)
+
+---
+
+## Insertion Sort Visualizer
+
+![insertionsort](https://github.com/zongqiooi/sorting-viz/assets/95561298/efc2afbf-06f4-4caf-b0cc-91558c386484)
+
+---
+## Toaster for Sorted Bars
+
+![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/73896e8c-3069-40ad-a10b-8474389cc827)
+
+---
+
 
 # How to Run the Project
 
