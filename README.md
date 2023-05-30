@@ -16,12 +16,26 @@ https://sorting-vizz.vercel.app/
 - Vercel
 
 # Features
----
+- Customized Website Cursor
+- Toaster for Sorted Bars
+- Unsorted Bars
+- Merge Sort Visualizer
+- Quick Sort Visualizer
+- Bubble Sort Visualizer
+- Selection Sort Visualizer
+- Insertion Sort Visualizer
 
 
 ## Customized Website Cursor
 
 ![customized-mouse](https://github.com/zongqiooi/sorting-viz/assets/95561298/56625aa5-6089-4cc8-8654-84882955586e)
+
+---
+
+## Toaster for Sorted Bars
+
+![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/a2321bca-d375-43ec-a709-cd6f9beac3cd)
+<!-- ![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/73896e8c-3069-40ad-a10b-8474389cc827) -->
 
 ---
 
@@ -60,13 +74,6 @@ https://sorting-vizz.vercel.app/
 ![insertionsort](https://github.com/zongqiooi/sorting-viz/assets/95561298/efc2afbf-06f4-4caf-b0cc-91558c386484)
 
 ---
-## Toaster for Sorted Bars
-
-![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/a2321bca-d375-43ec-a709-cd6f9beac3cd)
-<!-- ![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/73896e8c-3069-40ad-a10b-8474389cc827) -->
-
----
-
 
 # How to Run the Project
 
