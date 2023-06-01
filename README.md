@@ -2,7 +2,7 @@
 
 # Sorting Viz
 
-Sorting Viz is a web application that visualizes the five sorting algorithms, i.e. (a) merge sort, (b) quick sort, (c) bubble sort, (d) selection sort, and (e) insertion sort 📊
+Sorting Viz 📊 is a web application that visualizes the five sorting algorithms, i.e. (a) merge sort, (b) quick sort, (c) bubble sort, (d) selection sort, and (e) insertion sort
 
 # Visit the Website!
 
