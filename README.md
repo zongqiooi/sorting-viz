@@ -85,5 +85,5 @@ https://sorting-vizz.vercel.app/
    `code .`
 4. Install all the project dependencies  
    `npm install`
-5. Run the project with React.js
+5. Run the project with React.js   
    `npm start`
